@@ -53,8 +53,8 @@ Therefore, this project is aimed at revamping the website of Geeta Law College t
 1. Clone the repository to your local machine.
 2. Install [XAMPP](https://www.apachefriends.org/index.html).
 3. Open XAMPP and start Apache server.
-4. Copy the cloned repository to the `htdocs` folder in the XAMPP installation directory.
-5. Open your browser and go to `localhost/Geeta-Law-College-Revamp`.
+4. Copy the `content` folder from cloned repository to the `htdocs` folder in the XAMPP installation directory [You should rename the content folder as per your needs as well].
+5. Open your browser and go to `localhost/Geeta-Law-College-Revamp` (or the name of the folder which you copied in the step earlier).
 6. The website will be running locally on your machine.
 
 ## Contributors
